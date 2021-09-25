@@ -1,0 +1,41 @@
+###
+I stayed at the hospital for three days. I was admitted for my depression and anxiety. I was treated very well and the food was good. I had a good experience at the hospital.
+###
+Sentiment: 6.5
+Quality of Care: 6
+
+###
+My aunt was admitted at the hospital for depression and anxiety. We were treated very well and the staff were very friendly. We stayed at the hospital for two nights and my aunt is now feeling better.
+###
+Sentiment: 6.7
+Quality of Care: 6
+
+###
+I was admitted for my depression and anxiety at the hospital. I was treated very well and the food was good. I also liked the surrounding of the hospital. My wife stayed at the hospital with me.
+###
+Sentiment: 6.5
+Quality of Care: 7
+
+###
+My mother was admitted at the hospital for her stroke. My mother was treated very well by everyone at the hospital. The staff were friendly and took good care of my mother. The food was also good and we enjoyed our stay at the hospital.
+Sentiment: 6.8
+Sentiment: 6.8
+Quality of Care: 7
+
+###
+I was admitted at the hospital for my depression and anxiety. I was treated very well and the staff were friendly. The food was also good and I had a good experience at the hospital.
+###
+Sentiment: 6.6
+Quality of Care: Good
+
+###
+I stayed at ISM Hospital for depression and anxiety for two days. I was treated very well and had a great experience at ISM Hospital.
+###
+Sentiment: 6.3
+Quality of Care: 8
+
+###
+I was transferred to a different room three times before everyone was comfortable. I felt things were moving very slowly because nobody seemed to understand I was in pain. I think they should’ve taken better care of me.
+###
+Sentiment: 4
+Quality of Care: 1

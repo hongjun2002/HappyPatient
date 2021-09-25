@@ -1,0 +1,8 @@
+Introduction
+This report will compare an in-house developed proprietary ATS system with Lever and Taleo, two commercially available ATS systems. This report will aim to provide metrics on the advantages and disadvantages of each system and give a recommendation of the system that is the most effective.
+
+Background
+The purpose of this report is to determine an effective ATS system for evaluating and tracking candidates. A department’s ATS system gives a first impression to job candidates and serves as a tool for the HR team to evaluate and acquire talent. A poor or complicated ATS system may deter high quality candidates or slow down recruiters and work against the talent acquisition process.
+
+Requirements
+An effective ATS system will
